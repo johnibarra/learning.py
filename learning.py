@@ -17,8 +17,10 @@ print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print("i will now count the chicks.")
 print(5 + 3 + 4 - 10 + 24)
 
-
-
+# floating numbers
+print(10.0 + 10.0)
+print(30.0 - 10.0)
+print(200.0 - 180.0)
 
 
 
