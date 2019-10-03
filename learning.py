@@ -22,7 +22,6 @@ print(10.0 + 10.0)
 print(30.0 - 10.0)
 print(200.0 - 180.0)
 
-
 # variables
 cars = 80
 space_in_a_car = 4.0
@@ -39,6 +38,22 @@ print("there will be", CarsNotDriven, "empty cars today")
 print("we can transport",carpool_capacity,"people today.")
 print("we have", passengers,"to carpool today.")
 print("we need to put about", average_passengers_per_car,"in each car.")
+
+# more variables
+myName = "john"
+myAge = 257
+myHeight = 70 # inches
+myEyes = "brown"
+myTeeth = "white"
+myHair = "yes, some"
+
+print("let's talk about %s." % myName)
+print("he's %d inches tall." % myHeight)
+print("he's got %s eyes and %s hair." % (myEyes, myHair))
+print("his teeth are usually %s depending on the soda." % myTeeth)
+print("if i add %d and %d, i get #d." % (myAge, myHeight, myAge + myHeight))
+
+
 
 
 
