@@ -64,6 +64,16 @@ myFAVSport = "weightlifting"
 myShoe = 10.5 # inches
 myFAVColor = "red"
 
+print("let's talk about %s." % myName)
+print("he is %d years old" % myAge)
+print("And is about %d inches tall." % myHeight)
+print("He's got %s eyes and %s hair." % (myEyes, myHair))
+print("His favorite color is %s." % myFAVColor)
+print("And his favorite thing to do in sports is %s" % myFAVSport)
+print("and finally his shoe size is %s." % myShoe)
+
+
+
 
 
 
