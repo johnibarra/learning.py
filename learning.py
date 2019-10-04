@@ -46,15 +46,23 @@ myHeight = 70 # inches
 myEyes = "brown"
 myTeeth = "white"
 myHair = "yes, some"
+myShoe = 10.5 # inches
 
 print("let's talk about %s." % myName)
 print("he's %d inches tall." % myHeight)
 print("he's got %s eyes and %s hair." % (myEyes, myHair))
 print("his teeth are usually %s depending on the soda." % myTeeth)
-print("if i add %d and %d, i get #d." % (myAge, myHeight, myAge + myHeight))
+print("his shoe size is %s." % myShoe)
 
-
-
+# variable story
+myName = "john"
+myAge = 14
+myHeight = 70 # inches
+myHair = "black"
+myEyes = "black"
+myFAVSport = "weightlifting"
+myShoe = 10.5 # inches
+myFAVColor = "red"
 
 
 
